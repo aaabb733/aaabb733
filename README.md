@@ -1,6 +1,8 @@
 # stigma-66
 
--aaa
+- Unity, C#
+- React, TypeScript
+- Node.js, Express
 
 <!---
 stigma-66/stigma-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
