@@ -1,9 +1,8 @@
 # stigma-66
 
-- Unity, C#
-- React
-- Node.js, Express
-- TypeScript
+- Reactで作ったフィルターアプリ https://github.com/react-filter
+- Vue, Nuxt.jsで作った掲示板アプリ https://github.com/nuxt-app
+- Unityで作ったランゲーム https://github.com/stigma-66/simple-run
 
 <!---
 stigma-66/stigma-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
